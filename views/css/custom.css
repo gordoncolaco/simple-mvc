@@ -1,0 +1,18 @@
+/**login**/
+body{background-color:#F2F7F8; font-family: "Poppins", sans-serif;}
+.logo{text-align:center;padding-top:50px;font-size:30px;color:#2796E9;}
+.middle_page{background-color:#fff;max-width:437px;width:100%;margin: auto;margin-top:55px;padding-bottom:5%;}
+.login_heading{font-size:25px;font-weight:bold;padding-top:47px;   padding-left: 45px;padding-bottom:17px;}
+#loginform input {width:100%;    max-width:100%;border:0px;height:46px;margin-bottom:16px;padding-left:12px;background-color:#F2F7FA !important;color:#1C1C1C !important;}
+.form_section input {width:100%;    max-width:100%;border:0px;height:46px;margin-bottom:16px;padding-left:12px;background-color:#F2F7FA !important;color:#1C1C1C !important;}
+
+.errormsg_bg{color:#DF0101!important;width:100%;text-align:center;font-size:13px;}
+
+.footer_section{background-color:#E1EDEF;width:100%;color:#000;text-align:center;padding-top:10px;padding-bottom:10px;max-width:100%;margin-top:13%;max-width:100%;}
+.errormsg{}
+.form_section{max-width:100%;    padding-left: 45px;padding-right: 45px;font-size:15px;}
+#loginform  .login_button{background-image: linear-gradient(to right, #318be3, #04befe);color:#fff !important;    font-size: 17px; width:103% !important; max-width: 103% !important;border-radius: 4px;cursor:pointer;text-transform: uppercase;}
+.form_section  .login_button{background-image: linear-gradient(to right, #318be3, #04befe);color:#fff !important;    font-size: 17px; width:103% !important; max-width: 103% !important;border-radius: 4px;cursor:pointer;text-transform: uppercase;}
+.reset_pass_text{ padding-top: 10px; padding-left: 45px; padding-bottom: 10px;}
+.error_symbol{color:#F7020A;}
+/**login**/
